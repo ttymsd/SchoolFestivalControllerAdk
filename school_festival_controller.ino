@@ -1,4 +1,4 @@
-#include <Max3412e.h>
+#include <Max3421e.h>
 #include <Usb.h>
 #include <AndroidAccessory.h>
 
